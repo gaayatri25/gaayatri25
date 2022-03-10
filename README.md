@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! this is **gayatri** 👋
 
 ## welcome!
 
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+here's my latest medium blog 👇
+
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gayatriayu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gayatriayug/0" alt="Recent Article 0"> 
